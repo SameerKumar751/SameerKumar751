@@ -1,10 +1,7 @@
-<!-- ========================================================= -->
-<!--                GITHUB PROFILE README - PART 1             -->
-<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Sameer%20Kumar%20Gaur&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Sameer%20Kumar%20&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau&descAlignY=58"/>
 
 <br>
 
@@ -242,8 +239,8 @@ A responsive tourism platform designed to help users discover India's hidden gem
 | **Security** | Client-side Input Validation |
 | **Highlights** | Destination Discovery • Interactive UI • Trip Planning |
 | **Status** | Active |
-| **Repository** | *Add Repository Link* |
-| **Live Demo** | *Add Live Demo Link* |
+| **Repository** | https://github.com/SameerKumar751/bharat-darshan |
+| **Live Demo** | https://bharat-darshan-bice.vercel.app |
 
 ### Highlights
 
@@ -554,11 +551,6 @@ Cloud         ███░░░░░░░░░░░ 20%
 
 </div>
 
-<!-- =================== END OF PART 2 =================== -->
-<!-- ========================================================= -->
-<!--                GITHUB PROFILE README - PART 3             -->
-<!-- ========================================================= -->
-
 # GitHub Analytics
 
 <div align="center">
@@ -686,11 +678,11 @@ I believe in writing clean, maintainable solutions and continuously improving th
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kumarsameer.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/sameer-kumar-31225941b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -724,5 +716,5 @@ I believe in writing clean, maintainable solutions and continuously improving th
 
 </div>
 
-<!-- =================== END OF PART 3 =================== -->
+
 
