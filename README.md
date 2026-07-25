@@ -457,9 +457,9 @@ Currently building a stronger GitHub profile by creating real-world projects and
 
 # Certifications
 
-## Oracle
+## ANTHROPIC
 
-- Oracle AI Foundations
+- AI associate learner 
 
 ---
 
