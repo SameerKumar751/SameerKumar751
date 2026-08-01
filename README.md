@@ -27,7 +27,7 @@ Currently, I'm focused on developing practical skills in data processing, ETL pi
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,"/>
 </p>
 
 ### Data
